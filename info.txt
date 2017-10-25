@@ -1,0 +1,3 @@
+NG workshop 10/2017
+
+https://github.com/awslabs/aws-lambda-zombie-workshop.git
